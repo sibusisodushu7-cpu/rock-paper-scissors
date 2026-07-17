@@ -39,3 +39,7 @@ button:hover {
     color: #333;
     margin-top: 20px;
 }
+#clock {
+    font-size: 5rem;
+    text-align: left;
+    margin-top: 40px;
